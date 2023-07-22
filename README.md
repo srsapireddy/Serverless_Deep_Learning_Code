@@ -26,7 +26,7 @@ Here we send the picture with the URL to the model that we will deploy with AWS 
 To this, we will package everything into a docker container and deploy it to AWS Lambda.  Finally, we will expose this Lambda function as a web service API gateway.
 Serverless is the concept of removing infrastructure considerations for deploying code. Instead of having to manage servers and infrastructure by ourselves, a serverless service takes care of that for us and only charges according to use.</br></br>
 
-### Presentation: 
+### Presentation Link </br>
 https://docs.google.com/presentation/d/1lAVSrXsIDzfN08h1OyyJXevqLpqUOIAA/edit?usp=sharing&ouid=114982669494228087786&rtpof=true&sd=true
 
 ### Output</br>
